@@ -7,6 +7,6 @@
 // const result = arithematicModule.sum(10, 20);
 // console.log(result);
 
-import { sub, num } from './arithematic.mjs';
+import { sub, num } from './arithematic.js';
 console.log(sub(30, 20));
 console.log(num)

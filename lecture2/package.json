@@ -1,18 +1,12 @@
 {
-  "name": "firstserver",
+  "name": "lecture2",
   "version": "1.0.0",
-  "description": "My first server app using nodejs",
-  "main": "result.js",
+  "description": "removing mjs",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon result.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Pritha Rai",
+  "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.1.4"
-  },
-  "dependencies": {
-    "mongodb": "^6.8.0"
-  }
+  "type": "module"
 }
