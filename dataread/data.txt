@@ -1,0 +1,3 @@
+name: Pritha
+class: 3rd year
+rollno: 2230078
